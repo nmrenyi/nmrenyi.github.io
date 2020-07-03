@@ -11,7 +11,7 @@ tags:
     - Dynamic Programming
 ---
 
-- 0703 read article on [Wikipedia Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming) and [A great introduction of Dynamic Programming](https://www.hackerearth.com/zh/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/). Be sure to summarize them at last or review them while practising.]
+- 0703 read article on [Wikipedia Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming) and [A great introduction of Dynamic Programming](https://www.hackerearth.com/zh/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/). Be sure to summarize them at last or review them while practising.
 - There seems to be a lot of solutions of fibonacci in [Leet Code 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/). Be sure to read and summarize them.
 
 ### Reference
