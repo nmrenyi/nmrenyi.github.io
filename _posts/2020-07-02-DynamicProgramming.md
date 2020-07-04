@@ -19,3 +19,4 @@ tags:
 - [Wikipedia Dynamic Programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 - [A great introduction of Dynamic Programming](https://www.hackerearth.com/zh/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
 <!-- - [Data Structure and Algorithm from Junhui Deng(Binary Search Version C)](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm/) -->
+- [How to solve a Dynamic Programming Problem ?](https://www.geeksforgeeks.org/solve-dynamic-programming-problem/)
