@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Hit Refresh Book Remarks
-# subtitle:   WWDC 2018 Keynote 全记录
+title:      读书列表
+subtitle:   读过的书和想读的书
 date:       2020-07-04
 author:     RenYi
 # header-img: img/post-bg-cook.jpg
