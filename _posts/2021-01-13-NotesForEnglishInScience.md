@@ -57,3 +57,29 @@ tags:
 
 12. whisker noun 胡须
 
+## Chapter2
+
+1. wary [ˈweəri] adj. 小心谨慎的
+
+   We must tell kids to be wary of strangers.
+
+   keep a wary eye on
+
+2. demoralize verb to reduce or destroy someone's courage or confidence
+
+   demoralized demoralizing 消沉,沮丧 
+
+3. curt adj. using very few words in a way that seems rude
+
+   With a curt nod, he turned away and sat down.
+
+   a curt note
+
+4. zeal adj. eagerness to do something, especially to achive a particular religious or political aim
+
+5. sabotage v/n 蓄意破坏
+
+6. irate [aɪˈreɪt] adj. extremely angry, especially because you think you have benn treated unfairly
+
+7. retort v/n reply humorously or angrily 反驳回嘴
+
