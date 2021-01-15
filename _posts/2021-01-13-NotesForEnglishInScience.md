@@ -79,7 +79,56 @@ tags:
 
 5. sabotage v/n 蓄意破坏
 
-6. irate [aɪˈreɪt] adj. extremely angry, especially because you think you have benn treated unfairly
+6. irate [aɪˈreɪt] adj. extremely angry, especially because you think you have been treated unfairly
 
 7. retort v/n reply humorously or angrily 反驳回嘴
+
+## Chapter3
+
+1. muzzle [ˈmʌzl]
+
+   - verb 给狗带口套，prevent someone from saying what they think in public
+
+     muzzle the media
+
+   - noun 狗或马的口，口套
+
+2. disgusting adj [dɪsˈɡʌstɪŋ] 令人厌恶的
+
+3. exploit verb
+
+   - 压榨剥削
+
+     Homeworkers can easily be exploited by employers.
+
+   - 利用
+
+     exploit the potential of satellite transmission
+
+4. obsolete adj. 废弃淘汰过时的
+
+5. acclaim verb/noun 赞赏推崇
+
+6. escalate [ˈeskəleɪt] verb (坏的事情)升级、增多、恶化
+
+   - Her fear was escalating into panic.
+   - escalating crimes
+   - escalate the war
+
+7. engross verb 使全神贯注，吸引
+
+   - engross one's attention
+   - engross oneself in / be engrossed in
+
+8. methodical [məˈθɒdɪkl] adj. 有条理的，有条不紊的
+
+   - a methodical person/mind
+   - check every detail in a methodical way
+
+9. tangible [ˈtændʒəbl] adj. 确凿的，实实在在的
+
+   - The scheme must have tangible benefits for the unemployed.
+   - tangible evidence/proof
+
+   
 
