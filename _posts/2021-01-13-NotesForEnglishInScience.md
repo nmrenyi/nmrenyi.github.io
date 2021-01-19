@@ -75,7 +75,7 @@ tags:
 
    a curt note
 
-4. zeal adj. eagerness to do something, especially to achive a particular religious or political aim
+4. zeal adj. eagerness to do something, especially to achieve a particular religious or political aim
 
 5. sabotage v/n 蓄意破坏
 
@@ -131,4 +131,94 @@ tags:
    - tangible evidence/proof
 
    
+
+## Chapter4
+
+1. toupee [ˈtuːpeɪ] noun 假发
+
+2. implication noun
+
+   - a possible future effect or result of an action, event, decision etc (可能的)影响, 结果
+
+     This election has profound implications for the future of U.S. democracy.
+
+   - a situation in which it is shown or suggested that someone or something is involved in a crime or a dishonest act 牵涉、牵连(坏事)
+
+     the implication of the former Chief of Staff in a major scandal
+
+   - a suggestion that is not made directly but that people are expected to understand or accept 含意，暗示
+
+3. infirmary 医院(英国)、医务室
+
+4. infirmity noun 体弱、虚弱
+
+   a man's baldness is a major infirmity
+
+5. inequity noun [ɪnˈekwəti] 不公正
+
+   the inequities of the legal system
+
+6. infringe [ɪnˈfrɪndʒ] verb to do something that is against law or someone's legal rights 违反(法律), 侵犯(他人权利)
+
+   - the infringement of human rights
+   - infringe on one's right to free speech
+
+7. deterrent [dɪˈterənt] noun something that makes someone less likely to do something, by making them realize it will be difficult or have bad results 震慑、威慑力
+
+   - the deterrent effect of prison sentences
+   - nuclear deterrent
+
+8. succinct [səkˈsɪŋkt] adj. clearly expressed in a few words, using this to show approval
+
+   - a succinct explanation
+
+## Chapter5
+
+1. assail [əˈseɪl] verb
+
+   - 困扰 Carla was suddenly assailed by doubts.
+   - (强烈的气味或巨响)刺激 The smell of rotten meat assailed her nostrils.
+   - 抨击、袭击、抨击 He was assailed for gross(严重的) misconduct(渎职).
+
+2. banal [bəˈnɑːl] ordinary and not interesting, because of a lack of new or different ideas
+
+   - conversations about the most banal subjects
+
+3. mercenary [ˈmɜːsənəri]
+
+   - adj. only interested in the money you may be able to get from a person, job etc
+     - She did it for purely mercenary reasons
+     - a mercenary attitude
+   - noun 雇佣兵
+
+4. allusion noun something said or written that mentions a subject, person etc indirectly
+
+   - The committee made no allusion to the former President in his report.
+   - Eliot's poetry is full of biblical allusions.
+
+5. taint 玷污、败坏、使受负面影响
+
+   - verb 
+     - his trial is tainted by negative publicity
+     - the water had been tainted with a deadly toxin
+   - noun
+     - This city has suffered many years from under the taint of corruption.
+
+6. appease verb 平息，安抚
+
+   - They attempted to appease international opposition by promising to hold talks
+   - Chamberlain's policy of appeasement towards Hitler in the 30s
+
+7. arbitrary adj. decided or arranged without any reason or plan, often unfairly
+
+   - an arbitrary decision
+   - the arbitrary arrests of political oppenents
+
+8. altruistic [ˌæltruˈɪstɪk] adj 利他的，无私的
+
+9. euphemism [ˈjuːfəmɪzəm] noun 委婉语
+
+   - 'Pass away' is a  euphemism for 'die'
+
+   euphemistic adj. 委婉的
 
