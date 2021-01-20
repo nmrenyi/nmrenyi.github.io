@@ -212,13 +212,17 @@ tags:
 7. arbitrary adj. decided or arranged without any reason or plan, often unfairly
 
    - an arbitrary decision
-   - the arbitrary arrests of political oppenents
+   - the arbitrary arrests of political opponents
 
-8. altruistic [ˌæltruˈɪstɪk] adj 利他的，无私的
+8. altruistic [ˌæltruˈɪstɪk] adj 利他的，无私的 (not selfish)
 
 9. euphemism [ˈjuːfəmɪzəm] noun 委婉语
 
-   - 'Pass away' is a  euphemism for 'die'
+   - 'Pass away' is a euphemism for 'die'
 
    euphemistic adj. 委婉的
 
+## Chapter6
+
+1. quadruple v/adj 四倍
+2. audition n/v 试演、试唱
