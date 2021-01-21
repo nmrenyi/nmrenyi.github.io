@@ -226,3 +226,17 @@ tags:
 
 1. quadruple v/adj 四倍
 2. audition n/v 试演、试唱
+
+## Chapter7
+
+1. flagrant [ˈfleɪɡrənt] adj. 明目张胆的，公然的
+   - flagrant violations of human rights
+   - a flagrant disregard for the law
+2. calamity [kəˈlæməti] noun 灾难, 祸患
+   - It will be a calamity for farmers if the crops failed again.
+3. turmoil [ˈtɜːmɔɪl] noun 动乱、骚乱
+4. rehabilitate verb 协助康复，恢复名誉
+5. venture 
+   - noun 风险投资
+   - verb 冒风险做，小心谨慎地做
+6. ponder verb 仔细考虑，深思
