@@ -240,3 +240,101 @@ tags:
    - noun 风险投资
    - verb 冒风险做，小心谨慎地做
 6. ponder verb 仔细考虑，深思
+
+## Chapter8
+
+1. dispatch v/n to send someone or something somewhere for a particular purpose 派遣，发送
+
+   - noun 信件、报道
+
+2. orient verb (orientate)
+
+   - be oriented to/towards/around 针对、围绕、以...为重点
+
+     a course that is oriented towards the needs of businessmen
+
+   - 确认方位/方向，熟悉环境
+
+     orientate oneself to college life
+
+3. discern verb
+
+   - to notice or understand something by thinking about it carefully 觉察出, 弄清楚
+     - Officials were keen to discern how much public support there was.
+   - to be able to see something by looking carefully
+     - We could just discern a town in the distance.
+
+4. discerning adj. 有鉴赏力，有眼光的
+
+   - the discerning eye/ear/traveller
+
+   discernment noun 鉴赏力
+
+5. nocturnal adj. 夜行的
+
+6. exemplify verb to be a very typical example of something
+
+   - The building exemplified the style of architecture which was popular at the time.
+
+7. exemplar noun 模范、典型
+
+8. attest to 证明、作为...的证据 Luxurious furnishings attested to the owner's wealth.
+
+## Chapter9
+
+1. predominant adj. 占优势的、占主导地位的
+2. tow v/n 牵引，拖，拉
+3. default 
+   - verb 拖欠、违约
+     - He defaulted on his child support payments.
+   - noun (债务)拖欠
+     - The company is in default on its loan agreement.
+4. confiscate verb 没收，充公
+   - Many opposition supporters had their goods confiscated.
+5. the economic recession 经济衰退
+6. prerequisite [ˌpriːˈrekwəzɪt] noun 先决条件
+7. constitute link-verb 被视为
+   - Failing to complete the work constitutes a breach of the employment contract.
+8. nominal adj.
+   - 象征性的 nominal charge for the tennis court
+   - 名义上的 the nominal head of the rebellion
+   - 票面的 nominal wage / real wage
+
+## Chapter10
+
+1. sinister [ˈsɪnɪstə(r) ] adj. 不祥的、阴险的
+   - There is something sinister about his death.
+2. intricate adj. [ˈɪntrɪkət] containing many small parts or details that all work or fit together
+   - intricate patterns 精致的图案
+   - a intricately woven fabric
+3. incoherent adj. 条理不清的、紊乱的、语无伦次的
+4. intercede verb 代为请求、说情
+5. sanctuary noun 保护区、禁猎区、避难所
+
+## Chapter11
+
+1. gaunt adj. [ɡɔːnt] very thin and pale, especially because of illness or continued worry 瘦削憔悴的
+   - the old man's gaunt face
+2. blatant adj. [ˈbleɪtnt] 公然的 blatant discrimination
+3. garbled adj. 含混不清的 garbled version of the story
+4. gloat adj. 幸灾乐祸的 gloat over their victory
+5. contrive verb 设法做 contrive to do
+6. immaculate adj. very clean and tidy/exactly correct or perfect in every detail
+   - immaculate dark-blue suit
+7. dissect verb 解剖、剖析
+8. qualm 疑虑、不安、担忧 noun
+   - The manager has no qualms about dropping players who do not play well.
+9. retaliate verb 报复、反击 The British government retaliated by breaking off diplomatic relations.
+10. blight 
+    - noun (植物)枯萎病、阴影/不幸
+      - Her guilty secret was a blight on her happiness.
+      - the blight of poverty
+    - verb 损害、妨害
+      - a country blighted by poverty
+
+## Chapter12
+
+1. paternal adj. [pəˈtɜːnl] 父亲般的
+   - Dan took a paternal interest in my work.
+2. proclaim verb 宣布、声明
+   - The President proclaimed the republic's independence.
