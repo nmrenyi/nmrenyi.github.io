@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Gone With The Wind
-subtitle:   A Woman Who Brave Her Life
+subtitle:   Scarlett, A Woman Who Brave Her Life
 date:       2021-02-05
 author:     RenYi
 # header-img: img/RomanHoliday-AudreyHepburn-1.png
