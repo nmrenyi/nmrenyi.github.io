@@ -338,3 +338,76 @@ tags:
    - Dan took a paternal interest in my work.
 2. proclaim verb 宣布、声明
    - The President proclaimed the republic's independence.
+
+## Chapter13
+
+1. rigour 
+   - the problems and difficulties of a situation
+     - the stresses and rigours of modern life
+   - great care and thoroughness in making sure that something is correct
+     - Their research seems to me lacking in rigour.
+2. squander
+   - to carelessly waste time, money, opportunities etc.
+     - The home team squandered a number of chances in the first half.
+     - They squandered the profits on expensive cars.
+3. devastate
+   - to make someone extremely shocked and sad
+     - Rob was devastated by the news of her death
+   - to damage something very badly or completely
+     - The city centre was devastated by the bomb.
+4. incentive [ɪnˈsentɪv] noun
+   - something encourages you to work harder, start a new activity etc.
+     - Awards provide an incentive for young people to improve their skills.
+5. digress [daɪˈɡres] verb
+   - to talk or write about something that is not your main subject
+     - Do you mind if I digress for a moment? （说些题外话）
+6. curtail verb [kɜːˈteɪl] 
+   - to reduce or limit something
+     - Budget cuts have drastically curtailed training programs.
+7. succumb to 屈服于
+   - Gina succumbed to temptation and had a second serving cake.
+8. intermittent adj. 间歇的、断断续续的 SYN: sporadic
+   - The weather forecast is for sun, with intermittent showers.
+9. incorporate
+   - to include something as part of a group, system, plan, etc
+     - We've incorporated many environmentally-friendly features into the design of the building.
+
+
+
+## Chapter14
+
+1. infamous [ˈɪnfəməs] noun well known for being bad or evil
+
+   - This area is infamous for drugs and prostitution.
+
+2. revulsion noun [rɪˈvʌlʃn] a strong feeling of shock and very strong dislike
+
+3. intrinsic adj. being part of nature or character of someone or something
+
+   - There is nothing in the intrinsic nature of the work that makes it more suitable for women.
+
+4. benefactor noun someone who gives money for a good purpose
+
+5. virile adj. [ˈvɪraɪl] 阳刚的
+
+6. covert adj. [ˈkʌvət] secret or hidden
+
+   OPP: overt [əʊˈvɜːt]
+
+7. demise noun [dɪˈmaɪz] the end of something that used to exist
+
+   - the imminent(即将的) demise of a local newspaper
+   - the mystery of Elena's untimely demise
+
+8. hasten verb [ˈheɪsn] 加快加速，赶快
+
+   - Their departure was hastened by an abnormal cold winter.
+   - I hastened to assure her that there was no danger.
+   - an exhausting course, which I hasten to add, was also great fun
+
+9. empress noun 女皇, 皇后
+
+10. boast verb
+    - 夸耀 The company is inclined to boast of its success.
+    - 自豪地拥有 The city boasts two excellent museums.
+11. autopsy noun [ˈɔːtɒpsi] 尸检
