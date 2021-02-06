@@ -411,3 +411,29 @@ tags:
     - 夸耀 The company is inclined to boast of its success.
     - 自豪地拥有 The city boasts two excellent museums.
 11. autopsy noun [ˈɔːtɒpsi] 尸检
+
+
+
+## Chapter15
+
+1. dissent [dɪˈsent]
+   - noun
+     - 异议、不同意 OPP: assent, consent
+       - the ruthless suppression of political dissent
+   - verb
+     - Few historians would dissent from this view.
+2. lucrative adj. [ˈluːkrətɪv] 利润丰厚的 SYN: profitable
+   - He inherited a lucrative business from his father.
+3. deficit noun [ˈdefɪsɪt] 逆差、亏损、赤字、不足
+   - the US's foreign trade deficit
+   - Many countries have a big deficit in food supply.
+4. mandatory adj. 强制性的、义务的 SYN: compulsory, obligatory
+   - Crash helmets are mandatory for motorcyclists.
+5. aspire verb. to desire and work towards achieving something important
+   - college graduates aspiring to careers in finance
+6. abstain verb
+   - 弃权、不投票
+     - Six countries voted for the change, five voted against, and two abstained.
+   - 戒除、禁欲
+     - Pilots must abstain from alcohol for 24 hours before flying.
+7. agnostic noun someone who believes that people can't know whether God exists or not
