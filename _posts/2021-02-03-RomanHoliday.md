@@ -14,4 +14,4 @@ tags:
 
 这部电影给我印象最深刻的，是Audrey Hepburn的青春活力。不知道她饰演这部电影时的年龄是多少，但这种满溢的青春活力、那种令人愉悦和感到可爱的美，确实是非常独特的。电影的故事本身也是很不错的。
 
-![](https://github.com/nmrenyi/nmrenyi.github.io/raw/master/img/RomanHoliday-AudreyHepburn-2.png)
+![](https://nmrenyi.github.io/img/RomanHoliday-AudreyHepburn-2.png)
