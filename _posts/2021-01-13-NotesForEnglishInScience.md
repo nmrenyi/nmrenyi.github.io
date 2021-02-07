@@ -437,3 +437,21 @@ tags:
    - 戒除、禁欲
      - Pilots must abstain from alcohol for 24 hours before flying.
 7. agnostic noun someone who believes that people can't know whether God exists or not
+
+## Chapter16
+
+1. proponent noun 支持者
+2. the prevalence of deafness in older age groups
+3. contend verb
+   - to complete against someone in order to gain something
+     - Three armed groups are contending for power.
+   - to argue or state that something is true
+     - Some astronomers contend that the universe may be younger than previously thought.
+4. extrovert/extravert noun/adj. 性格外向、活泼自信(的人)
+5. poignant adj. [ˈpɔɪnjənt] making you feel sad or full of pity
+   - a poignant reminder of our nation's great sacrifices
+6. bigot noun [ˈbɪɡət] 偏执、执拗的人
+7. quest noun [kwest] a long search for something that is difficult to find
+   - World leaders are now united in their quest for peace.
+8. trauma noun [ˈtrɔːmə] 痛苦的经历、心灵创伤、外伤
+   - traumas such as death or divorce
