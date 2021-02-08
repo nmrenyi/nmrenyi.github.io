@@ -455,3 +455,35 @@ tags:
    - World leaders are now united in their quest for peace.
 8. trauma noun [ˈtrɔːmə] 痛苦的经历、心灵创伤、外伤
    - traumas such as death or divorce
+
+## Chapter17
+
+1. reprisal noun [rɪˈpraɪzl] 报复 SYN: revenge, retaliation
+   - They didn't tell the police for fear of reprisal.
+2. rationale noun [ˌræʃəˈnɑːl] the reasons for a decision, belief etc
+   - The rationale behind the changes is not at all evident.
+3. impasse noun [ˈɪmpæs] 僵局
+   - Negotiations seemed to have reached an impasse.
+4. leash noun (牵狗的)绳子、皮带 SYN: lead
+   - Never leave your dog off the leash outside a store.
+5. flippant adj. 轻率轻浮的
+   - a rather flippant remark
+6. congenial adj. [kənˈdʒiːniəl] peasant in a way that makes you feel comfortable and relaxed
+   - The department provides a congenial atmosphere for research.
+7. rapport [ræˈpɔː(r)] noun friendly agreement and understanding between people 融洽、和睦
+   - He built a good rapport with the children.
+8. prone verb likely to do something or suffer from something, especially something bad or harmful
+   - Kids are all prone to eat junk food.
+9. prompt
+   - verb
+     - to make someone decide to do something (as a response)
+       - What prompted you to buy that suit?
+       - The decision prompted an outcry among prominent US campaigners.
+     - 提示、提醒
+       - A message will appear which prompt you for certain information.
+   - adj.
+     - done quickly; immediately; or at the right time
+       - a prompt response
+
+
+
