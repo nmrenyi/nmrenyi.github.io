@@ -468,7 +468,7 @@ tags:
    - Never leave your dog off the leash outside a store.
 5. flippant adj. 轻率轻浮的
    - a rather flippant remark
-6. congenial adj. [kənˈdʒiːniəl] peasant in a way that makes you feel comfortable and relaxed
+6. congenial adj. [kənˈdʒiːniəl] pleasant in a way that makes you feel comfortable and relaxed
    - The department provides a congenial atmosphere for research.
 7. rapport [ræˈpɔː(r)] noun friendly agreement and understanding between people 融洽、和睦
    - He built a good rapport with the children.
@@ -487,3 +487,9 @@ tags:
 
 
 
+## Chapter18
+
+1. phobia noun a strong unreasonable fear of something
+   - Some children suffer from school phobia.
+   - -phobia (aquaphobia)
+   - -phobic
