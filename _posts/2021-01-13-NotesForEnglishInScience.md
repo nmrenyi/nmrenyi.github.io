@@ -493,3 +493,28 @@ tags:
    - Some children suffer from school phobia.
    - -phobia (aquaphobia)
    - -phobic
+
+## Chapter19
+
+1. blase adj. [ˈblɑːzeɪ] not worried or excited about things that most people think are important, impressive etc
+   - He's very blase about money now that he's got that job.
+2. condescend verb 显示出高人一等，屈尊
+   - Take care not to condescend to your readers.
+   - condescending adj.
+3. facade noun [fəˈsɑːd]
+   - the front of a building, especially a large and important one
+     - an impressive building with a red brick facade
+   - a way of behaving that hides your real feelings
+     - Behind her cheerful facade, she's a really lonely person.
+4. benign adj. [bɪˈnaɪn] 
+   - kind and gentle
+     - He shook his head in a benign manner.
+   - (肿瘤)良性的 OPP: malignant [məˈlɪɡnənt]
+5. glib adj. 说话轻率巧舌如簧的 glib politicians
+
+6. haughty adj. behaving in a proud unfriendly way
+   - a haughty laugh
+7. libel noun [ˈlaɪbl] (书面)诽谤
+   - Holt sued the newspaper for libel.
+8. pseudonym noun [ˈsuːdənɪm] 笔名、假名
+
